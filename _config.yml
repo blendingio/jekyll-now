@@ -14,6 +14,7 @@ avatar: https://avatars0.githubusercontent.com/u/8309911?s=200&v=4
 #
 # Flags below are optional
 #
+remote_theme: macrod68/jekyll-materialize-starter-template
 
 # Includes an icon in the footer for each username you enter
 footer-links:
